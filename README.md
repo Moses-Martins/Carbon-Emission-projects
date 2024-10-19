@@ -1,13 +1,8 @@
 **Ethiopia to Kenya power interconnection project**
-#
 This project, which is being developed jointly by the Ethiopian Electric Power Corporation (EEPCo) and the Kenya Electricity Transmission Company Limited (KETRACO), aims to construct a high voltage direct current (HVDC) transmission line of over 1,000 km from Wolayta-Sodo in Ethiopia to Longonot in Kenya. The transmission line, with an eventual capacity of 2,000 MW, will evacuate power from Ethiopia that will be predominantly generated from hydropower sources to displace electricity that would have been generated mainly from fossil fuels in Kenya. The project will lead to an annual reduction of approximately 3.5 million tonnes of CO2 per year during the first year of operation, which will increase to over 7 million tonnes of CO2 per year after 4 years. It will be the largest CDM project in Africa in terms of emission reductions achieved.
-#
 **Project developer:** Ethiopian Electric Power Corporation (EEPCo) and the Kenya Electricity Transmission Company Limited (KETRACO)
-#
 **Website:** https://www.eep.com.et/?project=ethiopia-kenya-power-systems-interconnection-project-high-voltage-direct-current-transmission-project
-#
 **Type of project:** Energy project
-#
 **Location:** East Africa
 
 **Ithezi-Tezhi hydropower project in Zambia**
